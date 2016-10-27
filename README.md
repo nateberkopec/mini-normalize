@@ -1,6 +1,6 @@
 # mini-normalize
 
-A miniature CSS reset, based on normalize.css, suitable for inlining. 549 bytes gzipped.
+A miniature CSS reset, based on normalize.css, suitable for inlining. 463 bytes gzipped, or about 50% smaller than normalize.
 
 Browser target is IE11+ and current versions of popular mobile browsers
 (i.e. any version with 1% or greater adoption on [caniuse](http://caniuse.com/usage-table)).
